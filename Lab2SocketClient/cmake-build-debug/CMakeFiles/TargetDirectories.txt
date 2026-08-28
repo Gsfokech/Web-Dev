@@ -1,0 +1,3 @@
+A:/C_and_C++/MAI/WEB-labs/Lab2SocketClient/cmake-build-debug/CMakeFiles/Lab2SocketClient.dir
+A:/C_and_C++/MAI/WEB-labs/Lab2SocketClient/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/C_and_C++/MAI/WEB-labs/Lab2SocketClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,112 @@
+Connection time: Mon Apr 15 11:43:58 2024
+Connection host: localhost
+Sending time: Mon Apr 15 11:44:03 2024
+Sent message: Миронов Андрей Дмитриевич
+Receive time: Mon Apr 15 11:44:09 2024
+Received message: �ѸвеиЀтѸмД� �еЀѴнА� �оноЀѸМ� | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Mon Apr 15 11:47:56 2024
+Connection host: localhost
+Sending time: Mon Apr 15 11:48:01 2024
+Sent message: Миронов Андрей Дмитриевич
+Receive time: Mon Apr 15 11:48:06 2024
+Received message: �ѸвеиЀтѸмД� �еЀѴнА� �оноЀѸМ� | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Mon Apr 15 11:50:09 2024
+Connection host: localhost
+Sending time: Mon Apr 15 11:50:14 2024
+Sent message: Миронов Андрей Дмитриевич
+Connection closed
+
+
+Connection time: Mon Apr 15 11:50:46 2024
+Connection host: localhost
+Sending time: Mon Apr 15 11:50:51 2024
+Sent message: Миронов Андрей Дмитриевич
+Connection closed
+
+
+Connection time: Mon Apr 15 11:52:43 2024
+Connection host: localhost
+Sending time: Mon Apr 15 11:52:48 2024
+Sent message: Миронов Андрей Дмитриевич
+Receive time: Mon Apr 15 11:52:53 2024
+Received message: чивеиртимД йерднА вонориМ | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Mon Apr 15 13:20:06 2024
+Connection host: localhost
+Sending time: Mon Apr 15 13:20:11 2024
+Sent message: Mironov Andrei Dmitrievich
+Receive time: Mon Apr 15 13:20:16 2024
+Received message: hciveirtimD ierdnA vonoriM | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Mon Apr 15 13:22:30 2024
+Connection host: localhost
+Sending time: Mon Apr 15 13:22:35 2024
+Sent message: Kudryakova Sofia Nikolaevna
+recv failed with error
+
+
+Connection time: Mon Apr 15 13:23:01 2024
+Connection host: localhost
+Sending time: Mon Apr 15 13:23:06 2024
+Sent message: Kudryakova Sofia Nikolaevna
+Receive time: Mon Apr 15 13:23:11 2024
+Received message: anvealokiN aifoS avokayrduK | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Mon Apr 15 13:24:08 2024
+Connection host: localhost
+Sending time: Mon Apr 15 13:24:13 2024
+Sent message: Ivanov Ivan Ivanovich
+Receive time: Mon Apr 15 13:24:18 2024
+Received message: hcivonavI navI vonavI | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Thu Apr 18 19:27:04 2024
+Connection host: localhost
+Sending time: Thu Apr 18 19:27:09 2024
+Sent message: Ivanov Ivan Ivanovich
+Receive time: Thu Apr 18 19:27:14 2024
+Received message: hcivonavI navI vonavI | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Thu Apr 18 19:27:31 2024
+Connection host: localhost
+Sending time: Thu Apr 18 19:27:36 2024
+Sent message: Ivanov Ivan Ivanovich
+Receive time: Thu Apr 18 19:27:41 2024
+Received message: hcivonavI navI vonavI | Written by Mironov A.D.
+Connection closed
+
+
+Connection time: Fri Apr 19 12:47:45 2024
+Connection host: localhost
+Sending time: Fri Apr 19 12:47:50 2024
+Sent message: Ivanov Ivan Ivanovich
+Receive time: Fri Apr 19 12:47:55 2024
+Received message: hcivonavI navI vonavI | Written by Mironov A.D.
+Connection closed
+
+
+Unable connect to server
+Connection time: Mon Apr 22 09:26:54 2024
+Connection host: 172.20.10.3
+Sending time: Mon Apr 22 09:26:59 2024
+Sent message: Ivanov Ivan Ivanovich
+Receive time: Mon Apr 22 09:27:04 2024
+Received message: hcivonavI navI vonavI Writen by Tombulov M.Y. M3O-110b-23
+Connection closed
+
+

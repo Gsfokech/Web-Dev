@@ -1,0 +1,19 @@
+Server started:	Thu Apr 11 00:38:27 2024
+
+Connection time: Thu Apr 11 00:38:37 2024	Connection address: ('127.0.0.1', 64923)
+Message: John Walter Smith	Received: Thu Apr 11 00:38:42 2024
+Message: b'htimS retlaW nhoJ\tWritten by Mironov A.D. M3O-110b-23'	Sent: Thu Apr 11 00:38:47 2024
+Connection closed: Thu Apr 11 00:38:52 2024
+
+Connection time: Thu Apr 11 00:44:48 2024	Connection address: ('127.0.0.1', 55659)
+Message: John Walter Smith	Received: Thu Apr 11 00:44:53 2024
+Message: b'htimS retlaW nhoJ\tWritten by Mironov A.D. M3O-110b-23'	Sent: Thu Apr 11 00:44:58 2024
+Connection closed: Thu Apr 11 00:45:03 2024
+
+Server started:	Thu Apr 11 19:56:57 2024
+
+Connection time: Thu Apr 11 19:57:02 2024	Connection address: ('127.0.0.1', 58254)
+Message: John Walter Smith	Received: Thu Apr 11 19:57:07 2024
+Message: b'htimS retlaW nhoJ\tWritten by Mironov A.D. M3O-110b-23'	Sent: Thu Apr 11 19:57:12 2024
+Connection closed: Thu Apr 11 19:57:17 2024
+
